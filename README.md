@@ -1,2 +1,1 @@
-# FaceRecog
-Face recognition software
+# Face Recognition
