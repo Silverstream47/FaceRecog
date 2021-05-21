@@ -9,5 +9,7 @@ You will need the following Python library:
 
 To run this code, simply clone the code through Git and run it.
 
+Running this code through Spyder is recommended, but not required.
+
 ## Licensing  
 This project is licensed under the GPL-3.0 License.
